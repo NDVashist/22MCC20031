@@ -1,1 +1,1 @@
-print("hello world from browser")
+print("hello world from browsers")
